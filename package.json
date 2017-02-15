@@ -1,0 +1,14 @@
+{
+  "name": "couchbase-phonebook",
+  "version": "1.0.0",
+  "description": "a simple phonebook application for managing contacts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Mbanugo",
+  "license": "ISC",
+  "dependencies": {
+    "@hoodie/store-client": "^7.0.1",
+    "pouchdb": "^6.1.2"
+  }
+}
